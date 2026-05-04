@@ -573,6 +573,7 @@ exiftool /path/to/images/
 | **ScatteredSecrets** | Breach notification service | 🟡 Freemium | [scatteredsecrets.com](https://scatteredsecrets.com/) |
 | **The OSINT Rack** | Ransomware & data leak monitoring | 🟢 Free | [osintrack.com](https://osintrack.com/) |
 | **Pwndb** | Dark web breach database (Tor) | 🟢 Free | Requires Tor Browser |
+| **OsintCat** | Email, username & phone breach lookup — fast results with real data | 🟡 Freemium | [osintcat.net](https://www.osintcat.net/) |
 
 <details>
 <summary><b>💻 Pwndb — Dark Web Breach Search (requires Tor)</b></summary>
